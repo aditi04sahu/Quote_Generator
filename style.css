@@ -12,7 +12,7 @@ body {
     align-items: center;
     height: 100vh; /* Full viewport height */
     text-align: center;
-    background: url('janko-ferlic-sfL_QOnmy00-unsplash.jpg') no-repeat center center/cover;
+    background: url('https://raw.githubusercontent.com/aditi04sahu/Quote_Generator/refs/heads/main/janko-ferlic-sfL_QOnmy00-unsplash.jpg') no-repeat center center/cover;
 }
 
 /* Container */
